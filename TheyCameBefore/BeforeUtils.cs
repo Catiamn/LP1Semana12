@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace HowManyOfThisType
+namespace TheyCameBefore
 {
     public static class BeforeUtils
     {
